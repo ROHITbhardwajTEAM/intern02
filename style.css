@@ -1,0 +1,25 @@
+
+    .container {
+      width: 200px;
+      height: 300px;
+      border: 1px solid #ccc;
+      padding: 10px;
+      float: left;
+    }
+
+    .item {
+      background-color: #f1f1f1;
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-bottom: 5px;
+      cursor: move;
+    }
+
+    .success-message {
+      color: green;
+      font-weight: bold;
+    }
+
+    .reset-button {
+      margin-top: 10px;
+    }
